@@ -1,5 +1,5 @@
 
-public abstract class DarkRoast extends Beverage {
+public class DarkRoast extends Beverage {
 
 	public DarkRoast(){
 		description = "DarkRoast";
